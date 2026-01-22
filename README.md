@@ -4,10 +4,10 @@
 
 - Read the explanation before each exercise
 - Write all your code in `app.js`
-- Run your file using:
+- Run your file using: node app.js
 
 ```bash
-node app.js
+
 🧱 Programming Building Blocks
 
 In this homework, you will practice the basic building blocks of JavaScript:
